@@ -3,7 +3,7 @@
 * 課程臉書網頁：https://www.facebook.com/groups/189644259942426
 * 課程 YouTube：https://youtube.com/playlist?list=PLShgvZ9iIXDtecRlT12eGXe71msBbslbj
 
-![](static/Img/classQR.png)
+![](static/img/classQR.png)
 
 ## 週次表 (syllabus) 
 
