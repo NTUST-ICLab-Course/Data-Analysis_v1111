@@ -1,8 +1,11 @@
 # 111-1 Data-Analysis 數據分析 (EE5327701)
 
 * 課程臉書網頁：https://www.facebook.com/groups/189644259942426
+
 ![](static/img/classQR.png)
+
 * 課程 YouTube：https://youtube.com/playlist?list=PLShgvZ9iIXDtecRlT12eGXe71msBbslbj
+
 ![](static/img/youtube_QR.png)
 
 
