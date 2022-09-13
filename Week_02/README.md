@@ -19,12 +19,12 @@
 #### 個人標注練習 (Annotation drill):
 以下是第一次標注練習的說明影片及評方方法，有任何問題，請可寫信或是在課程臉書詢問。
 
-說明影片:
+* 說明影片:
 https://youtu.be/iBcH3VF3bWI
 
-說明手冊:
+* 說明手冊:
 https://drive.google.com/file/d/1LaETElRAk8NdfEpzMXJgRAJKswm3_-wq/view?usp=sharing
 
-標註資料:
+* 標註資料:
 https://drive.google.com/drive/folders/1lshKeLvESZPqtKXGqXHyKgxEmhaxkZ-E?usp=sharing
 
