@@ -3,7 +3,7 @@
 2022/09/20
 
 #### 課程錄影:
-* Chapter 3(part 1) https://youtu.be/1OFQeZZL9AI
+* Chapter 3(part 1) https://youtu.be/1OFQeZZL9AI (9:40 開始)
 * Chapter 3(part 2) https://youtu.be/Z11tlmn_640
 * Chapter 3(part 3) https://youtu.be/en_FFGZ8yz4
 * Chapter 3(part 4) https://youtu.be/1oIDpa8TsMo
