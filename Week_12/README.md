@@ -14,7 +14,7 @@
 * 期末報告介紹 : https://docs.google.com/presentation/d/1h_C2-42QbZ92soR6ttu9kflC7rpyCPZt/edit?usp=sharing&ouid=107964136994559332709&rtpof=true&sd=true
 * 期末報告範例 : https://drive.google.com/file/d/1zJSOQLB-J96jxn4jCa4P_ck6AoPxJmkv/view?usp=sharing
 
-#### 作業繳交 : 
+#### 期末報告繳交 : 
 * 繳交日期 : 11/25 ~ 12/16 (三天擇一)
 * 繳交內容 : 完成書面報告、程式碼(繳交至moodle)、 5~10 分鐘的講解影片
 * 影片繳交區 : https://docs.google.com/spreadsheets/d/1-EZ63NJhFohnyo8RYBH1OpPVfnJj3OlDa46xQYtvp3s/edit?usp=sharing
